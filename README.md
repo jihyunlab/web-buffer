@@ -3,8 +3,6 @@
 [![Version](https://img.shields.io/npm/v/@jihyunlab/web-buffer.svg?style=flat-square)](https://www.npmjs.com/package/@jihyunlab/web-buffer?activeTab=versions) [![Downloads](https://img.shields.io/npm/dt/@jihyunlab/web-buffer.svg?style=flat-square)](https://www.npmjs.com/package/@jihyunlab/web-buffer) [![Last commit](https://img.shields.io/github/last-commit/jihyunlab/web-buffer.svg?style=flat-square)](https://github.com/jihyunlab/web-buffer/graphs/commit-activity) [![License](https://img.shields.io/github/license/jihyunlab/web-buffer.svg?style=flat-square)](https://github.com/jihyunlab/web-buffer/blob/master/LICENSE) [![Linter](https://img.shields.io/badge/linter-eslint-blue?style=flat-square)](https://eslint.org) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)\
 [![Build](https://github.com/jihyunlab/web-buffer/actions/workflows/build.yml/badge.svg)](https://github.com/jihyunlab/web-buffer/actions/workflows/build.yml) [![Lint](https://github.com/jihyunlab/web-buffer/actions/workflows/lint.yml/badge.svg)](https://github.com/jihyunlab/web-buffer/actions/workflows/lint.yml) [![Prettier](https://github.com/jihyunlab/web-buffer/actions/workflows/prettier.yml/badge.svg)](https://github.com/jihyunlab/web-buffer/actions/workflows/prettier.yml) [![codecov](https://codecov.io/gh/jihyunlab/web-buffer/graph/badge.svg?token=QJX5G75FXA)](https://codecov.io/gh/jihyunlab/web-buffer)
 
-@jihyunlab/web-buffer can be used by web applications such as React.
-
 @jihyunlab/web-buffer provides data conversion capabilities in web application environments where Node.js's Buffer class cannot be used.
 
 ## Installation
